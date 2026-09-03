@@ -1,2 +1,2 @@
 product = 5 * 2
-remainder = 
+remainder = 1398 % 
