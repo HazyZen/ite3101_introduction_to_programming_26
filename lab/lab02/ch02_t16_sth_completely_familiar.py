@@ -2,3 +2,4 @@
 
 my_string = "Ocean"
 print(len(my_string))
+print(my_string.upper())
