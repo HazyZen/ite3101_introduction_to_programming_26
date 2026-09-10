@@ -1,1 +1,1 @@
-todays_date = date.today()
+todays_date = "03/09/2026"
