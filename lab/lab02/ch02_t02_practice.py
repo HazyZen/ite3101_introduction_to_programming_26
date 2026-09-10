@@ -1,5 +1,5 @@
 # Assign your variables below, each on its own line!
-caeser = 'salad'
+caesar = 'salad'
 praline = 'hey'
 viking = 'vinland'
 
