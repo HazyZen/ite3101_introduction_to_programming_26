@@ -1,2 +1,2 @@
 import datetime
-todays_date = datetime.datetime.now()
+todays_date = f"{datetime.datetime.now()}"
