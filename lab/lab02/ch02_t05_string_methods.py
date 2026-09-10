@@ -1,1 +1,1 @@
-parrot = "Norweigan Blue"
+parrot = "Norwegian Blue"
