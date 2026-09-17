@@ -4,7 +4,7 @@ def grade_converter(grade: int) -> str:
         return "A"
     elif grade >= 80 and grade <= 89:
         return "B"
-    elif None:
+    elif grade >= 80 and grade <= 89:
         return "C"
     elif None:
         return "D"
