@@ -18,3 +18,4 @@ def rental_car_cost(days):
         total -= 50
     elif days >= 3 and days < 7:
         total -= 20
+    return total
