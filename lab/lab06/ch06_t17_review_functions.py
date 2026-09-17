@@ -5,6 +5,3 @@ def shut_down(s):
         return 'Shutdown aborted'
     else:
         return 'Sorry'
-
-
-shut_down(yes)
