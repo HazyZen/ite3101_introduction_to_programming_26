@@ -1,5 +1,5 @@
 def cube(number):
-    return number ** number
+    return print(number ** number)
 
 
 def by_three(number):
@@ -7,5 +7,6 @@ def by_three(number):
         return cube(number)
     else:
         return False
+
 
 cube(10)
