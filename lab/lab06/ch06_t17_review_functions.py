@@ -6,4 +6,5 @@ def shut_down(s):
     else:
         return 'Sorry'
 
+
 shut_down(yes)
