@@ -1,5 +1,5 @@
 # Set maximum to the max value of any set of numbers on line 3!
 
-maximum = None
+maximum = max(4, 12, 2, 6, 40)
 
 print(maximum)
