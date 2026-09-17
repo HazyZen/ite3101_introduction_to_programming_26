@@ -1,2 +1,4 @@
 def cube(number):
     return number ** number
+
+def by_three()
