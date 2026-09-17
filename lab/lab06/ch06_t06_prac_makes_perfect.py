@@ -8,5 +8,4 @@ def by_three(number):
     else:
         return False
 
-
 cube(10)
