@@ -6,4 +6,5 @@ webster = {
 }
 
 # Add your code below!
-for 
+for item in webster:
+    print(item)
