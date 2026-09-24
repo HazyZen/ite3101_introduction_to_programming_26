@@ -7,3 +7,5 @@ guesses_left = 3
 # Start your game!
 while guesses_left > 0:
     guess = input("Guess what the number is!")
+    if int(guess) = random_number:
+        
