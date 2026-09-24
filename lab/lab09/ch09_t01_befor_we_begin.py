@@ -1,3 +1,4 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
 
-for s
+for string in names:
+    print(string)
