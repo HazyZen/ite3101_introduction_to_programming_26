@@ -21,7 +21,4 @@ for key in prices:
     print(x)
     total += x
 
-
-for key in prices:
-
 print(total)
