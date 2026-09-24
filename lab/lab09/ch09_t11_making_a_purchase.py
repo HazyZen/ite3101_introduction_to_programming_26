@@ -24,4 +24,5 @@ def compute_bill(food):
         print(total)
     return total
 
-compute_bill()
+
+compute_bill(prices)
