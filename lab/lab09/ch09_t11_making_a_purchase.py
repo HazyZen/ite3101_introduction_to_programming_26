@@ -25,4 +25,4 @@ def compute_bill(food):
     return total
 
 
-compute_bill(prices)
+# compute_bill(prices)
