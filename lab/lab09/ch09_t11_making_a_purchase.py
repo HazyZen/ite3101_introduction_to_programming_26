@@ -21,3 +21,4 @@ def compute_bill(food):
     total = 0
     for key in prices:
         total += prices[key]
+    return total
