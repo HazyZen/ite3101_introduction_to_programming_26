@@ -8,4 +8,7 @@ guesses_left = 3
 while guesses_left > 0:
     guess = input("Guess what the number is!")
     if int(guess) == random_number:
+        print('You win!')
+        break
+    else:
         
