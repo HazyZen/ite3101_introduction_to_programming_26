@@ -6,3 +6,4 @@ def fizz_count(x):
         count++
     return count
 
+fizz_count(["fizz",'cat','fizz'])
