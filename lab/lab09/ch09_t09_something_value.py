@@ -18,5 +18,6 @@ for key in prices:
 
 total = 0
 for key in prices:
+    x =
     print(prices[key] * stock[key])
     total
