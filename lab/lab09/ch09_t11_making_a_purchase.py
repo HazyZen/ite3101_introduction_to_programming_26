@@ -20,6 +20,7 @@ prices = {
 def compute_bill(food):
     total = 0
     for key in prices:
+        if 
         total += prices[key]
         print(total)
     return total
