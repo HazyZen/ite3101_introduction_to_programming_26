@@ -11,6 +11,6 @@ while guesses_left > 0:
     if int(guess) == random_number:
         print('You win!')
         break
-    guesses_left -= 1
+    
     else:
         print('You lose.')
