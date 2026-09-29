@@ -11,7 +11,7 @@ while guesses_left > 0:
 
     if guess != random_number:
         print('Wrong. Guess again.')
-    elif int(guess) == random_number:
+    elif guess == random_number:
         print('You win!')
     else:
         print('You lose.')
