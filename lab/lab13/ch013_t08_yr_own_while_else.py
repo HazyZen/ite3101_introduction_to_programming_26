@@ -9,7 +9,7 @@ while guesses_left > 0:
     guess = input('Guess what the number is! \n')
     guesses_left -= 1
 
-    if guesses_left == 0:
+    if guess != random_number:
         print('Wrong. Guess again.')
         break
     elif int(guess) == random_number:
