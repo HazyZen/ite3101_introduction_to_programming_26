@@ -13,4 +13,4 @@ while guesses_left > 0:
         print('You win!')
         break
     elif guesses_left == 0:
-        print('You lose.')
+        print('You lose. The correct number was %s' )
