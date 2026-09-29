@@ -6,12 +6,11 @@ random_number = randint(1, 10)
 guesses_left = 3
 # Start your game!
 while guesses_left > 0:
-    guess = input('Guess what the number is! \n')
+    guess = int(input('Guess what the number is! \n'))
     guesses_left -= 1
 
     if guess != random_number:
         print('Wrong. Guess again.')
-        break
     elif int(guess) == random_number:
         print('You win!')
     else:
