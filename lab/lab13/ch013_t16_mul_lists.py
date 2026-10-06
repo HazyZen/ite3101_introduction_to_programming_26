@@ -3,6 +3,6 @@ list_b = [2, 4, 8, 10, 30, 40, 50, 60, 70, 80, 90]
 
 for a, b in zip(list_a, list_b):
     # Add your code here!
-    if list_a.length() > list_b.length():
-        
+    if len(list_a) > list_b.length():
+
     pass
