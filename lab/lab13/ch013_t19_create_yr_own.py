@@ -1,4 +1,4 @@
-numbers = [1, 2, 4, 5, 6, 8]
+numbers = [0, 1, 2]
 
 for num in numbers:
     print(num)
