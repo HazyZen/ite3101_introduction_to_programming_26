@@ -20,4 +20,5 @@ tyler = {
 # Add your function below!
 
 def average(numbers):
+    total = sum(numbers)
     
