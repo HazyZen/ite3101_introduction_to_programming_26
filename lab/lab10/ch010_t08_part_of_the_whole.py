@@ -51,4 +51,6 @@ print(get_letter_grade(get_average(lloyd)))
 def get_class_average(class_list):
     result = []
     for student in class_list:
-        
+        for item in student:
+            get_average(student[item])
+            
