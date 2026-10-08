@@ -20,4 +20,4 @@ students = [lloyd, alice, tyler]
 
 for student in students:
     for item in student:
-        print(student)
+        print(student[item])
