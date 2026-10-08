@@ -47,3 +47,4 @@ def get_letter_grade(score):
     elif 90 < score >= 80:
         return 'B'
     elif 80 < score >= 70:
+        return 'C'
