@@ -1,6 +1,6 @@
 lloyd = {
-    name: 'lloyd',
-    homework: '',
-    quizzes: '',
-    tests: ''
+    "name": 'lloyd',
+    "homework": '',
+    "quizzes": '',
+    "tests": ''
 }
