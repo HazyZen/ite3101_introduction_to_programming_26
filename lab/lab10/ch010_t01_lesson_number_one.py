@@ -5,7 +5,7 @@ lloyd = {
     "tests": ''
 }
 
-lloyd = {
+alice = {
     "name": 'lloyd',
     "homework": '',
     "quizzes": '',
