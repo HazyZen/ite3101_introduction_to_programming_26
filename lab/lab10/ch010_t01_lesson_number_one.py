@@ -1,1 +1,4 @@
-lloyd = 
+lloyd = {
+    name: 'lloyd',
+    
+}
