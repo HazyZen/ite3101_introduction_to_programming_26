@@ -56,4 +56,4 @@ def get_letter_grade(score):
         print('F')
 
 
-get_letter_grade(get_average(lloyd))
+get_letter_grade(90)
