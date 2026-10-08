@@ -29,4 +29,4 @@ def get_average(student):
     homework = sum(student["homework"]) / len(student["homework"])
     quizzes = sum(student["quizzes"]) / len(student["quizzes"])
     tests = sum(student["tests"]) / len(student["quizzes"])
-    return 
+    return 0.1 * 
