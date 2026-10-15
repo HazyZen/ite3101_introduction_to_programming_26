@@ -8,4 +8,5 @@ def join_strings(words):
         result += words[word]
     return result
 
-# print(join_strings(n))
+
+print(join_strings(n))
