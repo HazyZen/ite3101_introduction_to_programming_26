@@ -6,3 +6,6 @@ def total(numbers):
     for i in range(len(numbers)):
         result += numbers[i]
     return result
+
+
+print(total(n))
