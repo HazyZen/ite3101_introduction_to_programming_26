@@ -1,5 +1,5 @@
 board = []
 for i in range(5):
-    board.append(['O', 'O', 'O', 'O', 'O'])
+    board.append(['O'] * 5)
 
 print(board)
