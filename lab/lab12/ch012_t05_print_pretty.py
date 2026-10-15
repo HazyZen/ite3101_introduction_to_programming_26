@@ -7,5 +7,5 @@ for i in range(5):
 
 def print_board(board_in: List[List[str]]) -> None:
     for row in board_in:
-        "".join(board)
+        "".join(row)
         print(row)
