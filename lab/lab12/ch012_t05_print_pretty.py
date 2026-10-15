@@ -3,6 +3,7 @@ from typing import List
 board = []
 for i in range(5):
     board.append(['O'] * 5)
+    "".join(row)
 
 
 def print_board(board_in: List[List[str]]) -> None:
