@@ -1,3 +1,4 @@
 n = [3, 5, 7]
 
-def 
+def list_sum(x):
+    
