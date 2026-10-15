@@ -4,9 +4,8 @@ n = ["Michael", "Lieberman"]
 
 def join_strings(words):
     result = ""
-    for word in words:
-        result += result.append(word)
-    return result
+    for i in range(len(words)):
+        
 
 
 print(join_strings(n))
