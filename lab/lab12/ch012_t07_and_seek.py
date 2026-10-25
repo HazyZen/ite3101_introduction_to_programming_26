@@ -24,4 +24,6 @@ random_row(board)
 random_col(board)
 
 # Add your code below!
-guess_row = int(input())
+guess_row = int(input("Guess Row:"))
+
+guess_row = int(input("Guess Row:"))
