@@ -7,6 +7,7 @@ def anti_vowels(text):
             newtext += char
 
     print(nnewtext)
+    return newtext
 
 
 print(anti_vowels('hello'))
