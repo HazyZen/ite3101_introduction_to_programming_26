@@ -13,3 +13,5 @@ def factorial(x):
 
 
 factorial(3)
+
+print(range(5))
