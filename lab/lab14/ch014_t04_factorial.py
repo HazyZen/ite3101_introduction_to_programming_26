@@ -5,7 +5,7 @@ def factorial(x):
     return print(total)
 
 
-factorial(3)
+factorial(4)
 
 for n in range(5-1, 0, -1):
     print(n)
