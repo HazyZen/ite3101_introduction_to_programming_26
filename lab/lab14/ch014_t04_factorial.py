@@ -3,8 +3,8 @@ def factorial(x):
     i = 0
     while i < x:
         if total == 0:
-            total = x * (x - i)
             i += 1
+            total = x * (x - i)
         else:
             total *= (x - i)
             i += 1
