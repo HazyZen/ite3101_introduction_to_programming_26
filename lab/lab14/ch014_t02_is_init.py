@@ -2,4 +2,4 @@ def is_int(x):
     print(type(x))
 
 
-is_int(f)
+is_int('gh')
