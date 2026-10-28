@@ -12,4 +12,4 @@ def factorial(x):
     return print(total)
 
 
-factorial(3)
+factorial(1)
