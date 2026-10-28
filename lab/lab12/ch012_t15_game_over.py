@@ -44,5 +44,5 @@ for turn in range(4):
             print("You missed my battleship!")
             board[guess_row][guess_col] = "X"
             print_board(board)
-        elif turn == 3:
+        if turn == 3:
             print('Game Over')
