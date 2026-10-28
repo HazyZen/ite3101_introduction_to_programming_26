@@ -1,4 +1,4 @@
-def anti_vowels(text):
+def anti_vowel(text):
     vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
     newtext = ''
 
