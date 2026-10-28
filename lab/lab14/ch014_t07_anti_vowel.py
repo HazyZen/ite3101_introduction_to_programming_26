@@ -6,8 +6,4 @@ def anti_vowels(text):
         if char not in vowels:
             newtext += char
 
-    # print(newtext)
     return newtext
-
-
-print(anti_vowels('hello'))
