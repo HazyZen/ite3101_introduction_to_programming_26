@@ -13,4 +13,4 @@ def factorial(x):
     return total
 
 
-factorial(5)
+factorial(4)
