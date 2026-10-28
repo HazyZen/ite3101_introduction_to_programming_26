@@ -6,7 +6,7 @@ def anti_vowels(text):
         for char in text:
             if letter == char:
                 print(char)
-                text = text.strip(char)
+                newtext = text.strip(char)
     print(text)
 
 
