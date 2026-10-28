@@ -9,7 +9,7 @@ def factorial(x):
             total *= (x - i)
             i += 1
 
-    return total
+    return print(total)
 
 
 factorial(4)
