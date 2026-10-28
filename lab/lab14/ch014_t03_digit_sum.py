@@ -2,9 +2,8 @@ def digit_sum(n):
     to_str = str(n)
     total = 0
     for num in to_str:
-        print(num)
         total += int(num)
-    print(total)
+    return total
 
 
-digit_sum(1234)
+digit_sum(1234)¬
