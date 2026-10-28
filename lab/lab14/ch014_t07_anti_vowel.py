@@ -6,7 +6,7 @@ def anti_vowels(text):
         if char not in vowels:
             newtext += char
 
-    print(nnewtext)
+    print(newtext)
     return newtext
 
 
