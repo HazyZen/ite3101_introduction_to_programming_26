@@ -8,3 +8,5 @@ def factorial(x):
         else:
             total *= (x - i)
             i += 1
+
+factorial(5)
