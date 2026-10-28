@@ -1,5 +1,5 @@
 def is_prime(x):
-    for n in range(x-1, 1, -1):
+    for n in range(2, x-1):
         return x % n != 0
 
 
