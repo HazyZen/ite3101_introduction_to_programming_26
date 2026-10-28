@@ -1,5 +1,6 @@
 def is_prime(x):
     for n in range(x-1, 1, -1):
+        if 
         return x % n != 0
 
 
