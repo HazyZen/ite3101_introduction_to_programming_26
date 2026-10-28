@@ -1,3 +1,3 @@
 def factorial(x):
-    tota = 0
+    total = 0
     for 
