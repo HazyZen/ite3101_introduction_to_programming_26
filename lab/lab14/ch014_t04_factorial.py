@@ -14,4 +14,5 @@ def factorial(x):
 
 factorial(3)
 
-print(range(5))
+for n in range(5):
+    print(n)
