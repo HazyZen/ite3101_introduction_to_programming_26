@@ -3,4 +3,5 @@ def anti_vowels(text):
     text_list = list(text)
 
     for letter in vowels:
-        for 
+        for char in text:
+            
