@@ -6,4 +6,5 @@ def factorial(x):
             total = x * (x - i)
             i += 1
         else:
-            total *= 
+            total *= (x - i)
+            i += 1
