@@ -5,3 +5,6 @@ def anti_vowels(text):
     for letter in vowels:
         for char in text:
             print(letter, char)
+
+
+anti_vowels('hello')
