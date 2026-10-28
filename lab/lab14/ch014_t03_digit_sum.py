@@ -1,5 +1,5 @@
 def digit_sum(n):
-    print(str(n).split())
-
+    to_str = str(n).split()
+    for str in 
 
 digit_sum(1234)
