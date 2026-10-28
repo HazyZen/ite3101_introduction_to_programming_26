@@ -8,5 +8,4 @@ def anti_vowels(text):
                 text_list.remove(char)
 
 
-
-anti_vowels('hello')
+print(anti_vowels('hello'))
