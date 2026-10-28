@@ -3,4 +3,4 @@ def factorial(x):
     i = 1
     while i < x:
         total = x * (x - i)
-        i++
+        i += 1
