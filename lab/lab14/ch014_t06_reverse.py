@@ -1,1 +1,1 @@
-def reverse():
+def reverse(text):
