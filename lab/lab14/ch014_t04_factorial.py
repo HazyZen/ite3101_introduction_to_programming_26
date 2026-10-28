@@ -5,4 +5,4 @@ def factorial(x):
     return print(total)
 
 
-factorial(0)
+factorial(1)
