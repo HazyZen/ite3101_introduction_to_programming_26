@@ -5,6 +5,7 @@ def anti_vowels(text):
     for letter in vowels:
         for char in text_list:
             if letter == char:
+                print(char)
                 text_list.remove(char)
 
 
