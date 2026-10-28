@@ -1,2 +1,2 @@
 def is_even(x):
-    if x
+    return bool(x % 2)
