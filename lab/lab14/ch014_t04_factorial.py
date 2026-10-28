@@ -1,6 +1,7 @@
 def factorial(x):
     total = x
-    for 
+    for num in range(x-1, 0, -1):
+        
 
     return print(total)
 
