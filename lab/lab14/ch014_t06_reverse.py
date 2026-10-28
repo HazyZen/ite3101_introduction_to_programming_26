@@ -7,4 +7,4 @@ def reverse(text):
 
 reverse('abcd')
 
-print('abcd'.split(''))
+print(list('bacde'))
