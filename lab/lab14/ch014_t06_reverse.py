@@ -1,7 +1,7 @@
 def reverse(text):
     textList = []
     for ltr in text:
-        textList.append
+        textList.append(ltr)
     print(reversed_text)
 
 
