@@ -7,6 +7,7 @@ def anti_vowels(text):
             if letter == char:
                 print(char)
                 text_list.remove(char)
+    print(text_list)
 
 
 print(anti_vowels('hello'))
