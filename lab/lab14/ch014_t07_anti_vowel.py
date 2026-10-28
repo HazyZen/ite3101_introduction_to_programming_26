@@ -1,2 +1,2 @@
 def anti_vowels(text):
-    vowels= ['a','e']
+    vowels= ['a','e','i', 'o','u']
