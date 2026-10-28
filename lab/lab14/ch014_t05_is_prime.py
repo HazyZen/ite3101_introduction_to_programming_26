@@ -1,3 +1,3 @@
 def is_prime(x):
     # is divisible by iself and 1
-    for i in range()
+    for i in range(x-)
