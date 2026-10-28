@@ -4,6 +4,3 @@ def digit_sum(n):
     for num in to_str:
         total += int(num)
     return total
-
-
-digit_sum(1234)¬
