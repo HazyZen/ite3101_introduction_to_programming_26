@@ -1,1 +1,2 @@
-def
+def id_int(x):
+    
