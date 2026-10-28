@@ -1,8 +1,5 @@
-import math
-
-
 def is_int(x):
-    return print(abs(x - x) == 0)
+    return print(abs(x - round(x)) == 0)
 
 
-is_int(-5.4)
+is_int(-5.0)
