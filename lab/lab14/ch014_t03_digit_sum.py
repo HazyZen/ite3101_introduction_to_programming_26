@@ -1,4 +1,4 @@
 def digit_sum(n):
+    
 
-
-digit_sum(234)
+digit_sum(1234)
