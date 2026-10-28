@@ -1,6 +1,6 @@
 def factorial(x):
     total = 0
-    i = 1
+    i = 0
     while i < x:
         if total == 0:
             total = x * (x - i)
