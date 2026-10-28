@@ -1,4 +1,4 @@
 def digit_sum(n):
-    str(n).split()
+    str(n).split('')
 
 digit_sum(1234)
