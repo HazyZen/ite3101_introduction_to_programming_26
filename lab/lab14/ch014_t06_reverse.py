@@ -3,6 +3,7 @@ def reverse(text):
     reversed_text_list = []
     for i in range(len(text_list) - 1, -1, -1):
         reversed_text_list.append(text_list[i])
+    reversed_text = re
     print(reversed_text_list)
 
 
