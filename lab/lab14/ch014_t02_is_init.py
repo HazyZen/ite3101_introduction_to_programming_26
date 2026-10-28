@@ -1,2 +1,2 @@
-def id_int(x):
+def is_int(x):
     
