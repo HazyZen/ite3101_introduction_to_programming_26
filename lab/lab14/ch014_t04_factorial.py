@@ -5,7 +5,6 @@ def factorial(x):
         if total == 0:
             total = x * (x - i)
             i += 1
-            print(total)
         else:
             total *= (x - i)
             i += 1
