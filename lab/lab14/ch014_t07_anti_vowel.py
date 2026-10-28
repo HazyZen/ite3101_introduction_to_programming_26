@@ -3,7 +3,7 @@ def anti_vowels(text):
     text_list = list(text)
 
     for letter in vowels:
-        for char in text:
+        for char in text_list:
             if letter == char:
                 text_list.remove(char)
 
