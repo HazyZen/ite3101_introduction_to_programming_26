@@ -1,5 +1,5 @@
 def reverse(text):
-    text = text.split(' ')
+    textList = []
     for ltr in text:
         
     print(reversed_text)
