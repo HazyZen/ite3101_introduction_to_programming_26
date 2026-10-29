@@ -3,7 +3,7 @@ def censor(text, word):
     for wrd in text:
         if wrd.lower() == word:
             newText.append(len(wrd) * '*')
-            print
+            print(newText)
 
 
 censor("this hack is wack hack", "hack")
