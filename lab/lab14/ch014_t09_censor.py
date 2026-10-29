@@ -10,4 +10,4 @@ def censor(text, word):
     return ' '.join(new_text_list)
 
 
-censor("abc a a ", "a")
+censor("abc a a  b", "a")
