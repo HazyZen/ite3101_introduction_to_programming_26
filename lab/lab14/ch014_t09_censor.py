@@ -1,6 +1,6 @@
 def censor(text, word):
     text_list = text.split(' ')
-    new
+    new_text_list = list()
     for item in text_list:
         if item == word:
             item = len(item) * '*'
