@@ -1,5 +1,5 @@
 def censor(text, word):
-    print(text.split(' ')
+    text_list = text.split(' ')
 
 
 print(censor("this hack is wack hack", "hack"))
