@@ -3,3 +3,6 @@ def censor(text, word):
     for wrd in text:
         if wrd.lower() == word:
             print(wrd)
+
+
+censor("this hack is wack hack", "hack")
