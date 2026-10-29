@@ -2,10 +2,10 @@ def censor(text, word):
     new_Text = list()
     for wrd in text:
         if wrd.lower() == word:
-            newText.append(len(wrd) * '*')
-            print(newText)
+            new_Text.append(len(wrd) * '*')
+            print(new_Text)
         else:
-            newText.append(wrd)
+            new_Text.append(wrd)
 
 
 print(censor("this hack is wack hack", "hack"))
