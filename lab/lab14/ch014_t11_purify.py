@@ -1,4 +1,4 @@
 def purify(list):
     new_list = []
     for i in list:
-        if i
+        if i % 2 == 0:
