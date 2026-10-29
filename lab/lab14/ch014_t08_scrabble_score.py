@@ -13,4 +13,4 @@ def scrabble_score(word):
     return total
 
 
-scrabble_score('word')
+scrabble_score('Helix')
