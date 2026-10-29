@@ -6,6 +6,6 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
 print(score[1])
 
 
-def scrabble_score(word):
-    score = 0
-    for char in word:
+# def scrabble_score(word):
+#     score = 0
+#     for char in word:
