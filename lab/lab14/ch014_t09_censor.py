@@ -4,7 +4,6 @@ def censor(text, word):
     for item in text_list:
         if item == word:
             new_text_list.append(len(item) * '*')
-            print(new_text_list)
         else:
             new_text_list.append(item)
     print(new_text_list)
