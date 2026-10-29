@@ -1,5 +1,5 @@
 def censor(text, word):
-    newText = list()
+    new_Text = list()
     for wrd in text:
         if wrd.lower() == word:
             newText.append(len(wrd) * '*')
