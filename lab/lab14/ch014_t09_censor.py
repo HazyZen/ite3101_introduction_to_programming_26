@@ -3,6 +3,7 @@ def censor(text, word):
     for item in text_list:
         if item == word:
             item = len(item) * '*'
+            print(item)
     print(text_list)
 
 
