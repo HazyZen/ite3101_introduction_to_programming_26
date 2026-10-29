@@ -8,4 +8,4 @@ def censor(text, word):
             newText.append(wrd)
 
 
-censor("this hack is wack hack", "hack")
+print(censor("this hack is wack hack", "hack"))
