@@ -3,4 +3,4 @@ def count(sequence, item):
     for item in sequence:
         print(item)
 
-count()
+count([1,2,1,])
