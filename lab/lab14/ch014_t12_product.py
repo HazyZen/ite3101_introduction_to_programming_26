@@ -1,2 +1,2 @@
-def product():
+def product(nums):
     
