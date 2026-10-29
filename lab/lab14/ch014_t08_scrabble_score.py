@@ -9,7 +9,7 @@ print(score["a"])
 def scrabble_score(word):
     total = 0
     for char in word:
-        total += score[char.lowerCase()]
+        total += score[char.lower()]
     print(total)
     return total
 
