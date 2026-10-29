@@ -11,3 +11,6 @@ def scrabble_score(word):
     for char in word:
         total += score[char]
     return total
+
+
+scrabble_score('word')
