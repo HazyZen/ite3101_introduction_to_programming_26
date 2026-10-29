@@ -5,4 +5,4 @@ def censor(text, word):
             print(item)
 
 
-print(censor("this hack is wack hack", "hack"))
+censor("this hack is wack hack", "hack")
