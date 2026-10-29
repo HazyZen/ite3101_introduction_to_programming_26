@@ -6,7 +6,7 @@ def censor(text, word):
             new_text_list.append(len(item) * '*')
         else:
             new_text_list.append(item)
-    print(new_text_list)
+    print(" new_text_list)
     return new_text_list
 
 
