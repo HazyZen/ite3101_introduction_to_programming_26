@@ -3,7 +3,7 @@ def count(sequence, item):
     for i in sequence:
         if i == item:
             num += 1
-        print(i)
+    return num
 
 
 count([1, 2, 1, 1], 1)
