@@ -8,8 +8,7 @@ def censor(text, word):
         else:
             new_text_list.append(item)
     return new_text_list
-
-    print(text_list)
+    print(new_text_list)
 
 
 censor("this hack is wack hack", "hack")
