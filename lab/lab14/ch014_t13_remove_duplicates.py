@@ -1,2 +1,1 @@
-def remove_duplicates(x):
-    
+def remove_duplicates(x: list):
