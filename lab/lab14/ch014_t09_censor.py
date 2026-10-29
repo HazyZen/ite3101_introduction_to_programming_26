@@ -1,2 +1,3 @@
 def censor(text, word):
-    for wrd
+    for wrd in text:
+        if 
