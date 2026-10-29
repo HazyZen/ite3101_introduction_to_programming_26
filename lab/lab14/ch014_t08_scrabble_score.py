@@ -3,14 +3,12 @@ score = {"a": 1, "c": 3, "b": 3, "e": 1, "d": 2, "g": 2,
          "l": 1, "o": 1, "n": 1, "q": 10, "p": 3, "s": 1,
          "r": 1, "u": 1, "t": 1, "w": 4, "v": 4, "y": 4,
          "x": 8, "z": 10}
-print(score["a"])
 
 
 def scrabble_score(word):
     total = 0
     for char in word:
         total += score[char.lower()]
-    print(total)
     return total
 
 
