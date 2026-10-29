@@ -9,4 +9,4 @@ print(score["a"])
 def scrabble_score(word):
     score = 0
     for char in word:
-        
+        score += 
