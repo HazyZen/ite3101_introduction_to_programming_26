@@ -1,7 +1,7 @@
 def median(x: list) -> int:
     sort_list = x.sort()
     if len(sort_list) % 2 == 0:
-        
+        len(sort_list)
 
 
 print(median([1, 1, 2]))
