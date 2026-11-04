@@ -3,7 +3,7 @@ def median(x: list) -> int:
     if len(sort_list) % 2 == 0:
         return (sort_list[len(sort_list) / 2] + sort_list[len(sort_list) / 2 - 1]) / 2
     else:
-        return sort_list[len(sort)]
+        return sort_list[(len(sort_list) / 2).floor()]
 
 
 print(median([1, 1, 2]))
