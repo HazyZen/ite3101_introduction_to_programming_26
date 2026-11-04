@@ -11,7 +11,7 @@ def median(x: list) -> int:
 
 
 median([1, 1, 2])
-
+print(5 // 2)
 
 # Odd
 # 3 / 2 = floor = 1 (0, 1, 2)
