@@ -9,7 +9,7 @@ def median(x: list) -> int:
         return sort_list[math.floor((len(sort_list) / 2))]
 
 
-print(median([1, 1, 2]))
+median([1, 1, 2])
 
 
 # Odd
