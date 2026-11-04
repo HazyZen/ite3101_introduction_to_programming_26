@@ -1,6 +1,6 @@
 def median(x: list) -> int:
-    sort = x.sort()
-    print(sorted)
+    sortlist = x.sort()
+    print(sortlist)
 
 
 median([1, 1, 2])
