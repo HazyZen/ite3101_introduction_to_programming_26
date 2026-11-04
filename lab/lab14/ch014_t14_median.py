@@ -2,10 +2,11 @@ import math
 
 
 def median(x: list) -> int:
-    if len(x.sort()) % 2 == 0:
-        return (x.sort()[len(x.sort()) / 2] + x.sort()[len(x.sort()) / 2 - 1]) / 2
+    sort_list = x.sort()
+    if len(sort_list) % 2 == 0:
+        return (sort_list[len(sort_list) / 2] + sort_list[len(sort_list) / 2 - 1]) / 2
     else:
-        return x.sort()[math.floor((len(x.sort()) / 2))]
+        return sort_list[math.floor((len(sort_list) / 2))]
 
 
 median([1, 1, 2])
