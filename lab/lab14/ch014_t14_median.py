@@ -2,7 +2,6 @@ import math
 
 
 def median(x: list) -> int:
-    x.sort() = x.sort()
     if len(x.sort()) % 2 == 0:
         return (x.sort()[len(x.sort()) / 2] + x.sort()[len(x.sort()) / 2 - 1]) / 2
     else:
