@@ -7,6 +7,7 @@ def remove_duplicates(x: list):
         for n in new_list:
             # if list doesn't have it, append it
             if n != i:
+                print(n, i)
                 new_list.append(i)
     return new_list
 
