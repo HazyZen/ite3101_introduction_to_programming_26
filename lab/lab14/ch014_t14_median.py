@@ -1,5 +1,5 @@
 def median(x: list) -> int:
-    sortlist = x.sort()
+    sort_list = x.sort()
     print(len(x))
 
 
