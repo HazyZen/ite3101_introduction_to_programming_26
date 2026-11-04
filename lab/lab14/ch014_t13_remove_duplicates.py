@@ -13,8 +13,3 @@ def remove_duplicates(x: list):
 
 
 print(remove_duplicates([1, 1, 2, 2]))
-
-
-for i in x:
-    for n in new_list:
-        
