@@ -3,4 +3,4 @@ def remove_duplicates(x: list):
     for i in x:
         for n in new_list:
             #if list doesn't have it, append it
-            
+            print(x[i])
