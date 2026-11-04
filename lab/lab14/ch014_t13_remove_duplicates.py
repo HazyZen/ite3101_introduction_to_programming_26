@@ -6,4 +6,4 @@ def remove_duplicates(x: list):
             print(x[i])
 
 
-remove_duplicates([1, 1, 2, 2])
+print(remove_duplicates([1, 1, 2, 2]))
