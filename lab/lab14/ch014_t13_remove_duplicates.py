@@ -4,6 +4,7 @@ def remove_duplicates(x: list):
         print(i)
         for n in new_list:
             # if list doesn't have it, append it
+            if n
             new_list.append(i)
 
 
