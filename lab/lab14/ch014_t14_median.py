@@ -1,1 +1,2 @@
-def median(x:list):
+def median(x:list) -> int:
+    
