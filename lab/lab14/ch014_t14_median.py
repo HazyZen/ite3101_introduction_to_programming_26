@@ -3,4 +3,4 @@ def median(x: list) -> int:
     print(sortlist)
 
 
-median([1, 1, 2])
+print(median([1, 1, 2]))
