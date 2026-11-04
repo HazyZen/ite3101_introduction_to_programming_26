@@ -1,1 +1,1 @@
-def median():
+def median(x:list):
