@@ -1,6 +1,3 @@
-import math
-
-
 def median(x: list) -> int:
     sort_list = sorted(x)
     length = len(sort_list)
