@@ -4,3 +4,5 @@ def median(x: list) -> int:
 
 
 print(median([1, 1, 2]))
+
+
