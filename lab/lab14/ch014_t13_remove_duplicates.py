@@ -1,7 +1,6 @@
 def remove_duplicates(x: list):
     new_list = []
     for i in x:
-        print(i)
         for n in new_list:
             if not new_list:
                 print('empty')
